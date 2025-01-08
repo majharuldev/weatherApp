@@ -1,5 +1,10 @@
 # Weather App
 
+
+
+for android please read apk folder get apk file
+
+
 A simple Android weather application that fetches weather data using the OpenWeather API and displays it to the user. This app is built using Java and Retrofit for network calls.
 
 ## Features
